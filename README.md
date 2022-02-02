@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Password Manager Android Application**
 
-- 🌱 I’m currently learning **DecSecOps**
+- 🌱 I’m currently learning **Application Security Testing**
 
 - 💬 Ask me about **Security stuff or Android**
 
