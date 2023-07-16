@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Password Manager Android Application**
+- 🔭 Working as an **Information Security Consultant**
 
-- 🌱 I’m currently learning **Application Security Testing**
+- 🌱 Possess understanding of **Penetration Testing | VAPT | Mobile Security | WebSec**
 
-- 💬 Ask me about **Security stuff or Android**
+- 💬 Ask me about **Security stuff**
 
 - 📫 How to reach me [LinkedIn - @akashnayyar](https://www.linkedin.com/in/akash-nayyar-36342920b/) <b>.</b> [Instagram - @akay_nayyar](https://www.instagram.com/akay_nayyar/)
 
